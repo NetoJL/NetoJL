@@ -1,6 +1,6 @@
 ### Hello everybody! 👋
 
-Welcome to my GitHub! I'm 18 years old, currently studying Computer Science and looking to improve and go deep in Front-End development, 
+Welcome to my GitHub! I'm 19 years old, currently studying Computer Science and looking to improve and go deep in Front-End development, 
 besides being searching for experiences and challenges for my improvement as developer. 🚀
 
 - 🔭 I’m currently working on "MoveIt"
