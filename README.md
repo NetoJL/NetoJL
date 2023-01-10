@@ -3,8 +3,8 @@
 Welcome to my GitHub! I'm 20 years old, currently studying Computer Science and looking to improve and go deep in Front-End development, 
 besides being searching for experiences and challenges for my improvement as developer. 🚀
 
-- 🔭 I’m currently working on "Cardappio"
-- 🌱 I’m currently learning AngularJS
+- 🔭 I’m currently working on React/Redux
+- 🌱 I’m currently learning Redux
 - 👯 I’m looking to collaborate with ReactJS/React Native
 - 📫 How to reach me: zeneto2604@gmail.com
 
