@@ -3,7 +3,7 @@
 Welcome to my GitHub! I'm 20 years old, have a graduation in Computer Science and I'm improving myself in Front-End development, besides being searching for experiences and challenges for my improvement as developer. 🚀
 
 - 🔭 I’m currently working on React/Redux
-- 🌱 I’m currently learning Redux
+- 🌱 I’m currently learning NextJS
 - 👯 I’m looking to collaborate with ReactJS/React Native
 - 📫 How to reach me: zeneto2604@gmail.com
 
