@@ -2,9 +2,8 @@
 
 Welcome to my GitHub! I'm 21 years old, have a graduation in Computer Science and I'm improving myself in Front-End development, besides being searching for experiences and challenges for my improvement as developer. 🚀
 
-- 🔭 I’m currently working on React/Redux
-- 🌱 I’m currently learning DevOps
-- 👯 I’m looking to collaborate with ReactJS/React Native
+- 🌱 I’m currently learning NodeJS
+- 👯 I’m looking to collaborate with ReactJS/NodeJS
 - 📫 How to reach me: zeneto2604@gmail.com
 
 #####  📜 My skills and some of the technologies I have worked with:
